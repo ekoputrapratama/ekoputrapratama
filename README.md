@@ -14,4 +14,4 @@ I’m a self-taught software developer with over 10 years of experience building
 📫 Connect
 - LinkedIn (linkedin.com in Bing)
 - Portfolio (muhammadsayuti.web.app in Bing)
-- (X)[https://x.com/EkoPutraPrat4m4]
+- [X](https://x.com/EkoPutraPrat4m4)
