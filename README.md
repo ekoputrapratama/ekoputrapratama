@@ -12,6 +12,6 @@ I’m a self-taught software developer with over 10 years of experience building
 - Creative exploration with Blender for 3D modeling and animation.
 
 📫 Connect
-- LinkedIn (linkedin.com in Bing)
-- Portfolio (muhammadsayuti.web.app in Bing)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-sayuti94)
+- [Personal Website](https://muhammadsayuti.web.app)
 - [X](https://x.com/EkoPutraPrat4m4)
