@@ -7,7 +7,7 @@ I’m a self-taught software developer with over 10 years of experience building
 - Cryptography & privacy-first apps: Implementing modern solutions for secure photo backup and cloud galleries.
 
 🎮 Interests
-- 3D adventure, stealth and survival games (Resident Evil, Prince of Persia, Fatal Frame, Assassins creed).
+- 3D adventure, stealth and survival games (Resident Evil, Prince of Persia, Assassins creed).
 - Puzzle mini-games in stealth/action titles.
 - Creative exploration with Blender for 3D modeling and animation.
 
