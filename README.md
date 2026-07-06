@@ -3,7 +3,7 @@ I’m a self-taught software developer with over 10 years of experience building
 🔧 What I Do
 - Cross-platform development: From mobile apps to desktop embedding with Win32 and WebView2.
 - Database design: Experience with SQLite, MongoDB, Firebase, Realm, and custom APIs like SonicDB for Flutter.
-- Automation & tooling: Built internal tools using Puppeteer and CSV data to streamline workflows.
+- Automation & tooling: Built internal tools using Selenium and CSV data to streamline workflows.
 - Cryptography & privacy-first apps: Implementing modern solutions for secure photo backup and cloud galleries.
 
 🎮 Interests
