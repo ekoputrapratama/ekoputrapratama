@@ -1,4 +1,4 @@
-I’m a self-taught software developer with over 6+ years of experience building applications across web, mobile, and desktop. My journey started with JavaScript, PHP, HTML, and CSS, and has grown [...]
+I’m a self-taught software developer with over 6+ years of experience building applications across web, mobile, and desktop. My journey started with JavaScript, PHP, HTML, and CSS, and has grown into expertise in Python, Dart/Flutter, C++, and modern frameworks like React and Vue.
 
 🔧 What I Do
 - Cross-platform apps — mobile & desktop (Win32, WebView2)
