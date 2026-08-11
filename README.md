@@ -1,10 +1,10 @@
 I’m a self-taught software developer with over 6+ years of experience building applications across web, mobile, and desktop. My journey started with JavaScript, PHP, HTML, and CSS, and has grown into expertise in Python, Dart/Flutter, C++, and modern frameworks like React and Vue.
 
 🔧 What I Do
-- Cross-platform apps — mobile & desktop (Win32, WebView2)
-- Databases & APIs — SQLite, MongoDB, Firebase, Realm, SonicDB
-- Automation & tooling — scripts and Selenium to streamline workflows
-- Privacy-first apps — secure photo backup and cloud galleries
+- Cross-platform development: From mobile apps to desktop embedding.
+- Database design: Experience with SQLite, MongoDB, Firebase, Realm, and custom APIs like SonicDB for Flutter.
+- Automation & tooling: Built internal tools using Selenium and CSV data to streamline workflows.
+- Cryptography & privacy-first apps: Implementing modern solutions for secure photo backup and cloud galleries.
 
 🎮 Interests
 - 3D adventure, stealth and survival games (Resident Evil, Prince of Persia, Assassins creed).
