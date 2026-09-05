@@ -18,3 +18,4 @@ I’m a self-taught software developer with over 6+ years of experience building
 - [X](https://x.com/EkoPutraPrat4m4)
 
 ![](https://komarev.com/ghpvc/?username=ekoputrapratama)
+[![Muhammad Sayuti profile views](https://u8views.com/api/v1/github/profiles/49889162/views/day-week-month-total-count.svg)](https://u8views.com/github/ekoputrapratama)
