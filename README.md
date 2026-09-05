@@ -1,4 +1,12 @@
 
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Muhammad Sayuti</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/EkoPutraPrat4m4?label=Follow)](https://twitter.com/intent/follow?screen_name=EkoPutraPrat4m4)
+[![Linkedin: Muhammad Sayuti](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-sayuti94/)](https://www.linkedin.com/in/muhammad-sayuti94/)
+![GitHub followers](https://img.shields.io/github/followers/ekoputrapratama?label=Follow&style=social)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://muhammadsayuti.web.app/)](https://muhammadsayuti.web.app/)
+
 I’m a self-taught software developer with over 6+ years of experience building applications across web, mobile, and desktop. My journey started with JavaScript, PHP, HTML, and CSS, and has grown into expertise in Python, Dart/Flutter, C++, and modern frameworks like React and Vue.
 
 🔧 What I Do
@@ -12,10 +20,5 @@ I’m a self-taught software developer with over 6+ years of experience building
 - Puzzle mini-games in stealth/action titles.
 - Creative exploration with Blender for 3D modeling and animation.
 
-📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/muhammad-sayuti94)
-- [Personal Website](https://muhammadsayuti.web.app)
-- [X](https://x.com/EkoPutraPrat4m4)
 
 ![](https://komarev.com/ghpvc/?username=ekoputrapratama)
-[![Muhammad Sayuti profile views](https://u8views.com/api/v1/github/profiles/49889162/views/day-week-month-total-count.svg)](https://u8views.com/github/ekoputrapratama)
