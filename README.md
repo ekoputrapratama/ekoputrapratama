@@ -3,7 +3,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EkoPutraPrat4m4?label=Follow)](https://twitter.com/intent/follow?screen_name=EkoPutraPrat4m4)
-[![Linkedin: Muhammad Sayuti](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-sayuti94/)](https://www.linkedin.com/in/muhammad-sayuti94/)
+[![Linkedin: Muhammad Sayuti](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-sayuti94/)](https://www.linkedin.com/in/muhammad-sayuti94/)
 ![GitHub followers](https://img.shields.io/github/followers/ekoputrapratama?label=Follow&style=social)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://muhammadsayuti.web.app/)](https://muhammadsayuti.web.app/)
 
