@@ -10,7 +10,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 I’m a self-taught software developer with over 6+ years of experience building applications across web, mobile, and desktop. My journey started with JavaScript, PHP, HTML, and CSS, and has grown into expertise in Python, Dart/Flutter, C++, and modern frameworks like React and Vue.
 
 🔧 What I Do
-- Cross-platform development: From mobile apps to desktop embedding.
+- Cross-platform development: From mobile apps, web and desktop.
 - Database design: Experience with SQLite, MongoDB, Firebase, Realm, and custom APIs like SonicDB for Flutter.
 - Automation & tooling: Built internal tools using Selenium and CSV data to streamline workflows.
 - Cryptography & privacy-first apps: Implementing modern solutions for secure photo backup and cloud galleries.
