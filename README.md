@@ -13,7 +13,6 @@ I’m a self-taught software developer with over 6+ years of experience building
 - Cross-platform development: From mobile apps, web and desktop.
 - Database design: Experience with SQLite, MongoDB, Firebase, Realm, and custom APIs like SonicDB for Flutter.
 - Automation & tooling: Built internal tools using Selenium and CSV data to streamline workflows.
-- Cryptography & privacy-first apps: Implementing modern solutions for secure photo backup and cloud galleries.
 
 🎮 Interests
 - 3D adventure, stealth and survival games (Resident Evil, Prince of Persia, Assassins creed).
